@@ -1,0 +1,1 @@
+Camera and microphone permissions granted on Chromium!

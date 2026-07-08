@@ -1,0 +1,2 @@
+Total cookies: 1
+  Cookie: session-username = standard_user

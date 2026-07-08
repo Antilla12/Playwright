@@ -1,0 +1,3 @@
+Two tabs open simultaneously!
+Tab 1: https://the-internet.herokuapp.com/
+Tab 2: https://www.saucedemo.com/

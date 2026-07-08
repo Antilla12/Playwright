@@ -6,17 +6,17 @@ export default defineConfig({
   globalSetup: './global-setup.js',
   fullyParallel: true,
   forbidOnly: !!process.env.CI,
-  retries: process.env.CI ? 2 : 0,
+  retries: process.env.CI ? 2 : 1,
   workers: process.env.CI ? 1 : undefined,
   reporter: [
-  ['html'],
-  ['./my-reporter.js'],
+    ['html'],
+    ['./my-reporter.js'],
+    ['allure-playwright'],
   ],
   use: {
     storageState: 'auth.json',
     trace: 'on-first-retry',
   },
-
   projects: [
     // desktop browsers
     {
@@ -31,7 +31,6 @@ export default defineConfig({
       name: 'webkit',
       use: { ...devices['Desktop Safari'] },
     },
-
     // mobile browsers
     {
       name: 'Mobile Chrome',

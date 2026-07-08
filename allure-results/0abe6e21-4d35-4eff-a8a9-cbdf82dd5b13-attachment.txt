@@ -1,0 +1,2 @@
+Dragging from (230, 163.6999969482422) to (445, 163.6999969482422)
+Raw mouse drag completed!

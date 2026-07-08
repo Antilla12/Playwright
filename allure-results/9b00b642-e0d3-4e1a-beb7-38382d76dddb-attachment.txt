@@ -1,0 +1,4 @@
+Before drag - Box A: A
+Before drag - Box B: B
+After drag - Box A: B
+After drag - Box B: A

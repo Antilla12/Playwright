@@ -1,0 +1,8 @@
+
+Total requests made: 6
+First 5 requests:
+  GET https://www.saucedemo.com/
+  GET https://www.saucedemo.com/manifest.json
+  GET https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500
+  GET https://www.saucedemo.com/assets/index-XyuNVFOR.js
+  GET https://www.saucedemo.com/assets/index-Co7SA-g_.css

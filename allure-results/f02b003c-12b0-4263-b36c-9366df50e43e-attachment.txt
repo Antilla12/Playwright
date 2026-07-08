@@ -1,0 +1,1 @@
+Playwright handled all waiting automatically!

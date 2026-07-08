@@ -1,0 +1,1 @@
+[{"values":["Chrome,Firefox,WebKit,Mobile Chrome,Mobile Safari"],"name":"Browser"},{"values":["Staging"],"name":"Environment"},{"values":["https://www.saucedemo.com"],"name":"Base_URL"},{"values":["Playwright"],"name":"Framework"},{"values":["JavaScript"],"name":"Language"},{"values":["20"],"name":"Node_Version"}]

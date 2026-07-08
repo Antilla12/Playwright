@@ -1,0 +1,3 @@
+Login page load:     238ms
+Inventory page load: 19ms
+Difference:          219ms

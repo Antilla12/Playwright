@@ -1,0 +1,2 @@
+Dragging from (89.99999952316284, 149.06249237060547) to (305, 149.06249237060547)
+Raw mouse drag completed!

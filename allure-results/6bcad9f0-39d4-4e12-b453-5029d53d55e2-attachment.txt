@@ -1,0 +1,4 @@
+London: lat=51.5074 lng=-0.1278
+New York: lat=40.7128 lng=-74.006
+Tokyo: lat=35.6762 lng=139.6503
+Sydney: lat=-33.8688 lng=151.2093

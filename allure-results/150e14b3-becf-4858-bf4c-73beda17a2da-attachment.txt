@@ -1,0 +1,1 @@
+Alert text: I am a JS Alert

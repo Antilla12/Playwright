@@ -1,0 +1,5 @@
+localStorage contents:
+{
+  "backtrace-guid": "305c7520-635d-4e9b-be34-7ac68fe2ca71",
+  "backtrace-last-active": "1783487390583"
+}

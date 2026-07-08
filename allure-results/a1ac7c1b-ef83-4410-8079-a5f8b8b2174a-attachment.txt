@@ -1,0 +1,5 @@
+Performance metrics:
+  Page load:   100ms
+  DOM ready:   99ms
+  TTFB:        15ms
+  DOM parsing: 81ms

@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "playwright test",
+    "cucumber": "cucumber-js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Antilla12/Playwright.git"
@@ -22,6 +25,12 @@
   },
   "dependencies": {
     "@axe-core/playwright": "^4.12.1",
+    "@babel/core": "^8.0.1",
+    "@babel/preset-env": "^8.0.2",
+    "@babel/register": "^8.0.1",
+    "@cucumber/cucumber": "^13.0.0",
+    "allure-commandline": "^2.43.0",
+    "allure-playwright": "^3.10.2",
     "dotenv": "^17.4.2"
   }
 }

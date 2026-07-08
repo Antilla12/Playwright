@@ -1,0 +1,3 @@
+beforeEach: fresh login done
+GOOD test A: cart has 1 item
+afterEach: removed 1 items from cart

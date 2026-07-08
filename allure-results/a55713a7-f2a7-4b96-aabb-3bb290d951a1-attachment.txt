@@ -1,0 +1,1 @@
+Full checkout flow with POM passed!

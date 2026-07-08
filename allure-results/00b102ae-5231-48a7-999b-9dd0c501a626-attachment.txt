@@ -1,0 +1,2 @@
+New tab URL: https://the-internet.herokuapp.com/windows/new
+Original tab URL: https://the-internet.herokuapp.com/windows

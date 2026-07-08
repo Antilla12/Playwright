@@ -1,0 +1,2 @@
+PDF saved to: test-results/verified-inventory.pdf
+PDF file size: 180519 bytes

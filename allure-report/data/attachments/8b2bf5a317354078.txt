@@ -1,0 +1,3 @@
+With images: 227ms
+Without images: 110ms
+Time saved: 117ms

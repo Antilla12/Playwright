@@ -1,0 +1,7 @@
+Checkout flow timings:
+  Inventory:  549ms
+  Cart:       241ms
+  Checkout:   139ms
+  Summary:    185ms
+  Complete:   88ms
+  Total:      1202ms
